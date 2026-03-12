@@ -1,0 +1,60 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Andrea Ponce"
+date: "March 11, 2026"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: source
+execute:
+  freeze: auto
+---
+
+# Essay Prompts
+
+## **Prompt 1: Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.**
+
+Positron is downloaded to my device, and I followed along in the activities. 
+
+## **Prompt 2: Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?**
+
+One of the things I like about Positron is its system speed. I like that the layout still feels familiar to RStudio. It has a console, session variables, plots, a help pane, and project folders, so it does not feel completely new or confusing to navigate. However, it also has extra features like the activity bar, better file navigation, and more flexible layout options. While Positron is more modern and offers more flexible features, I still prefer RStudio because I am used to it and I know where to navigate everything. I'm still open to trying out Positron and using it more often to get adjusted to the program and use all it's offered features. 
+
+::: {.panel-tabset}
+
+## Positron
+
+- Supports R and Python
+- Built on VS Code technology
+- Includes AI tools like Positron Assistant
+
+## RStudio
+
+- Designed mainly for R
+- Very stable and widely used
+- Familiar interface for data scientists
+
+:::
+
+## **Prompt 3: In Step 4, the video demonstrates how you can use AI.**
+
+In Step 4, one of the main AI tools is Positron Assistant, which is built directly into Positron. It can help fix coding errors by suggesting corrections and applying changes back into the editor. It can also help improve code, such as by making a plot better, labeling points, or creating something new from scratch, like a GT table. It also understands data science and it's environment, so it can use context from the files, variables, plots, console output, and code that are already open. Since it does that, you do not always have to copy and paste everything into the chat box like you would with another regular AI website. Inline AI editing is a way to ask for changes directly in the code by placing your cursor over it. Then there is Databot, which is an extension that can be added to Positron. 
+
+::: {.callout-note}
+An IDE (Integrated Development Environment) is a tool used for coding that combines many features like a code editor, console, file explorer, and debugging tools in one place. Positron and RStudio are examples of IDEs used for data science. Having features like Positron Assistant help manage codes and fix issues right within the IDE. This tool makes the coding experience easier for the user. 
+::: 
+
+## **Prompt 3.2: Which AI tools have you installed or set up? Which AI tools did you find beneficial for you? I strongly recommend using GitHub Copilot, which is free if you apply for an education account.**
+
+I am currently in the process of waiting to be accepted by GitHub Education in order to set up GitHub CoPilot. My last application was rejected, so I have reapplied and are waiting for a response. I know it is strongly recommended to help with coding and make the process much smoother. From what I have seen, GitHub Copilot is a useful AI tool to help give suggestions and predict what code you need. This would make the process easier when I am stuck on a section and unsure of what errors I am making. I enabled Positron Assistant and it is helpful when making suggestions. 
+
+## **Prompt 3.3: Play with it and do you find it helpful or distracting? Please elaborate**
+
+I don't feel the Positron Assitant tool is distracting. I'm not sure as for other tools if they are distracting since I have not used it yet but I like that all the help I need is already on the platform instead of having to exit the program and search for solutions. 
+
+
